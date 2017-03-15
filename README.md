@@ -57,3 +57,19 @@ class BarcodeGenerator(APIView):
 ```
 
 
+
+### References
+
+
+
+* [AngularJS] - HTML enhanced for web apps!
+* [Ace Editor] - awesome web-based text editor
+* [markdown-it] - Markdown parser done right. Fast and easy to extend.
+* [Twitter Bootstrap] - great UI boilerplate for modern web apps
+* [node.js] - evented I/O for the backend
+
+
+    [AngularJS]: <http://angularjs.org>
+    [Ace Editor]: <http://ace.ajax.org>
+
+
